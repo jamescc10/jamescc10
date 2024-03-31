@@ -9,5 +9,7 @@
 
 <h2>Skills</h2>
 · C++
+<br>
 · HTML/CSS/JS
+<br>
 · Node.js
