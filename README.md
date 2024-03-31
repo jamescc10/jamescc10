@@ -4,6 +4,8 @@
 · <a href="https://github.com/jamescraft10/Jam">Programming Language</a>
 <br>
 · <a href="https://github.com/jamescraft10/CPP-Messenger">C++ Messenger</a>
+<br>
+· <a href="https://github.com/IceCube-speedcubing/IceCube">IceCube</a>
 
 <h2>Skills</h2>
 · C++
