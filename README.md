@@ -3,7 +3,7 @@
 <h2>Projects</h2>
 · <a href="https://github.com/jamescraft10/Jam">Programming Language</a>
 <br>
-· <a href="https://github.com/jamescraft10/CPP-Messenger">C++ Messenger</a>
+· <a href="https://github.com/jamescraft10/AWT">AWT</a>
 <br>
 · <a href="https://github.com/IceCube-speedcubing/IceCube">IceCube</a>
 
